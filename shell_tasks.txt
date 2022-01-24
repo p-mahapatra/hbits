@@ -1,0 +1,2 @@
+display current user id
+display current username
