@@ -2,4 +2,4 @@ Git commit and push - done
 Git diff - done?
 Create a new branch - done?
 Switch to a branch - done?
-Merge branches
+Merge branches - done?
