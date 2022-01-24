@@ -1,5 +1,5 @@
 Git commit and push - done
-Git diff
+Git diff - done?
 Create a new branch
 Switch to a branch
 Merge branches
