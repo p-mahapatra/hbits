@@ -3,3 +3,8 @@ Git diff - done?
 Create a new branch - done?
 Switch to a branch - done?
 Merge branches - done?
+
+Linux commands
+cd: change directory
+pwd: current dir
+echo: write to terminal
