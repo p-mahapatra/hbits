@@ -1,0 +1,5 @@
+Git commit and push - done
+Git diff
+Create a new branch
+Switch to a branch
+Merge branches
