@@ -1,2 +1,4 @@
 display current user id
+<code>echo "${UID} is the id of the user"</code>
 display current username
+<code>echo "Current user's name is ${id -un}"
