@@ -1,4 +1,9 @@
 display current user id
+<<<<<<< HEAD
 <code>echo "${UID} is the id of the user"</code>
 display current username
 <code>echo "Current user's name is ${id -un}"
+=======
+display current username
+check whether the user is root
+>>>>>>> 655d0a014b12874e70ef2ab9d547e7fb16a234d8
